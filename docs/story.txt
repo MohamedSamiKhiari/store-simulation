@@ -1,0 +1,46 @@
+Story:
+ 
+Vorgeschichte: In der Stadt soll demnächst ein neues Kaufhaus eröffnen. Der Chef des Kaufhauses möchte gerne eine 
+Software haben, die es ihm ermöglicht, sich stets einen Überblick über das Geschehen zu verschaffen und sein Kaufhaus 
+zu verwalten. Er gibt dir den Auftrag, diese Software zu programmieren. Das Kaufhaus soll bereits in wenigen Wochen 
+öffnen, daher braucht der Chef die Software so schnell wie möglich. Er hat drei Meilensteine definiert, in denen er 
+festgehalten hat, welche Teile der Software wann fertig sein sollen. Er möchte, dass du jeweils zum Ende dieser 
+drei Meilensteine den aktuellen Stand des Programms an ihn auslieferst. 
+ 
+Meilenstein 1 Der erste Meilenstein ist ein sogenannter technischer Durchstich. Dazu musst du die Grundstruktur 
+des Kaufhauses als C#-Programm abbilden. Der Chef hat dir dazu eine genaue Beschreibung seines Kaufhauses gegeben: 
+„Im Kaufhaus soll es 5 verschiedene Abteilungen geben, die voneinander unabhängig sind: Elektroartikel, Lebensmittel, 
+Kleidung, Möbel, Schmuck. Das Programm soll zudem wissen, wie das Kaufhaus heißt und an welcher Adresse es sich befindet. 
+Für jede Abteilung soll gespeichert werden, wie sie heißt, wie groß sie ist (in Quadratmetern) und wer der Abteilungsleiter 
+ist. Zudem soll jede Abteilung einer Liste mit allen Artikeln enthalten, die in dieser Abteilung angeboten werden. 
+Abschließend soll es eine Liste mit allen Angestellten geben, die in einer Abteilung arbeiten. In jeder Abteilung 
+müssen mindestens 2 Personen arbeiten, die nicht Abteilungsleiter sind. Zu jedem Angestellten soll das Programm wissen, 
+wie er heißt, wie alt er ist, wie hoch sein Gehalt ist, in welcher Abteilung er arbeitet und wer sein Vorgesetzter ist 
+(der Abteilungsleiter). Über den Abteilungsleiter sollen die gleichen Informationen gespeichert werden, mit der Ausnahme, 
+dass ein Abteilungsleiter keinen Vorgesetzten hat. Jeder Abteilungsleiter hat allerdings ein eigenes Büro, daher 
+soll das Programm wissen, in welchem Büro ein Abteilungsleiter sitzt. Jeder Artikel bekommt einen Namen und eine eindeutige, 
+zufällige, fünfstellige Artikelnummer. Zusätzlich hat jeder Artikel einen Einkaufspreis, einen Verkaufspreis und eine daraus 
+resultierende Gewinnmarge. Zuletzt sollen die Artikel noch einen Mindestbestand haben.  Alle Artikel liegen in einem Lager, 
+unabhängig von ihrer Abteilung. Das Lager soll zu jedem Artikel wissen, in welchem Regal er lagert und wie viele Exemplare 
+dieses Artikels dort derzeit liegen.   
+
+Meilenstein 2 Um den zweiten Meilenstein zu erreichen, musst du die Software für das Kaufhaus erweitern. Dazu hat der Chef 
+dir wieder ein paar Anweisungen gegeben: “Ich möchte, dass jeder Kunde, der in meinem Kaufhaus einkaufen will, ein 
+Kundenkonto braucht, damit ich über das Einkaufsverhalten meiner Kunden Bescheid weiß. Daher muss das Programm in der 
+Lage sein, Kundenkonten anzulegen und zu verwalten. Im Kundenkonto sollen der Name des Kunden, seine Adresse und sein 
+Geburtsdatum festgehalten werden. Zusätzlich erhält jeder Kunde natürlich auch eine eindeutige ID. Diese soll zufällig sein. 
+Mithilfe dieser Informationen soll mir die Software eine übersichtliche Liste darüber zusammenstellen, welcher Kunde wann 
+was in welcher Menge gekauft hat.” 
+ 
+Meilenstein 3 Um den letzten Meilenstein zu erreichen, musst du die Software fertig stellen. Der Chef hat dir dazu die 
+letzten Anforderungen mitgeteilt: „Diese Version der Software wird später im täglichen Einsatz sein, daher ist es sehr 
+wichtig, dass sie fehlerfrei läuft. Ich möchte daher, dass sie gründlich getestet wird. 
+ 
+Ich möchte beim Personal Kosten sparen und werde deswegen keinen Lagerarbeiter anstellen. Daher muss die Software 
+selbstständig die Artikelbestände überwachen und gegebenenfalls Ware nachbestellen. Das Nachbestellen soll erfolgen, 
+sobald ein Artikelbestand unter dem Mindestbestand liegt. Dazu möchte ich dann auch benachrichtigt werden. Ebenfalls 
+möchte ich eine Benachrichtigung haben, wenn ein Artikel ausverkauft ist. 
+ 
+Natürlich hat das Kaufhaus nicht nur einen Tag geöffnet, sondern mehrere Tage. Daher muss die Software in der Lage sein, 
+die Vorgänge mehrerer Tage zu verarbeiten und zu loggen. Damit ich die geloggten Informationen später schneller finden kann, 
+soll für jeden Tag eine eigene Log-Datei angelegt werden.“ 

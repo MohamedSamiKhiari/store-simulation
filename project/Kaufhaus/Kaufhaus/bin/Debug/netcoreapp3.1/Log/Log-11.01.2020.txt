@@ -1,0 +1,123 @@
+KaDeWe Log
+8:00 Uhr - Opening of the Store
+
+Today is the: 11.01.2020
+
+Time: 8
+A Customer Arrived
+The Customer, Leopold came back
+He/She bought: Halskette 2 times and the price was: 500 Euro
+He/She bought: T-Shirt 1 times and the price was: 15 Euro
+He/She bought: Haferkleie 1 times and the price was: 2 Euro
+
+Time: 9
+A Customer Arrived
+His/Her name is: Josefa
+He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
+He/She bought: T-Shirt 1 times and the price was: 15 Euro
+He/She bought: T-Shirt 2 times and the price was: 30 Euro
+
+Time: 10
+A Customer Arrived
+His/Her name is: Josefa
+He/She bought: Spülmaschine 2 times and the price was: 300 Euro
+He/She bought: T-Shirt 2 times and the price was: 30 Euro
+He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
+
+Time: 11
+A Customer Arrived
+His/Her name is: Mirjam
+He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
+He/She bought: Ring 2 times and the price was: 100 Euro
+He/She bought: Dinkelbrot 1 times and the price was: 3 Euro
+
+Time: 12
+No Customer comes in...
+
+Time: 13
+No Customer comes in...
+
+Time: 14
+A Customer Arrived
+His/Her name is: Reza
+He/She bought: T-Shirt 1 times and the price was: 15 Euro
+He/She bought: Halskette 1 times and the price was: 250 Euro
+He/She bought: Halskette 1 times and the price was: 250 Euro
+
+Time: 15
+A Customer Arrived
+His/Her name is: Hansgeorg
+He/She bought: T-Shirt 1 times and the price was: 15 Euro
+He/She bought: Esstisch 2 times and the price was: 900 Euro
+He/She bought: Esstisch 1 times and the price was: 450 Euro
+
+Time: 16
+A Customer Arrived
+His/Her name is: Tomas
+He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
+He/She bought: Ring 2 times and the price was: 100 Euro
+He/She bought: Toaster 1 times and the price was: 60 Euro
+
+Time: 17
+No Customer comes in...
+
+Time: 18
+A Customer Arrived
+The Customer, Anni came back
+He/She bought: Halskette 2 times and the price was: 500 Euro
+He/She bought: Esstisch 2 times and the price was: 900 Euro
+He/She bought: Haferkleie 1 times and the price was: 2 Euro
+
+Time: 19
+A Customer Arrived
+His/Her name is: Josefa
+He/She bought: Halskette 2 times and the price was: 500 Euro
+He/She bought: Jeans 1 times and the price was: 25 Euro
+He/She bought: Toaster 2 times and the price was: 120 Euro
+
+Time: 20
+No Customer comes in...
+
+20:00 Uhr - Schließung des Kaufhauses
+
+The Daily profit was: 5134 Euro
+
+Item: Dinkelbrot
+ Sold items: 17
+ Start Stock: 1957
+ End Stock: 1940
+Item: Esstisch
+ Sold items: 9
+ Start Stock: 4195
+ End Stock: 4186
+Item: Spülmaschine
+ Sold items: 6
+ Start Stock: 4583
+ End Stock: 4577
+Item: Halskette
+ Sold items: 15
+ Start Stock: 2021
+ End Stock: 2006
+Item: T-Shirt
+ Sold items: 9
+ Start Stock: 2936
+ End Stock: 2927
+Item: Haferkleie
+ Sold items: 5
+ Start Stock: 1384
+ End Stock: 1379
+Item: Toaster
+ Sold items: 6
+ Start Stock: 2754
+ End Stock: 2748
+Item: Ring
+ Sold items: 6
+ Start Stock: 4361
+ End Stock: 4355
+Item: Jeans
+ Sold items: 2
+ Start Stock: 1099
+ End Stock: 1097
+
+Check if reorder is necessary...
+finished reordering!
