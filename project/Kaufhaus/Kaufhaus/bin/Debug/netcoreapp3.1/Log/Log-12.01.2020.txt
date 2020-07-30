@@ -5,127 +5,133 @@ Today is the: 12.01.2020
 
 Time: 8
 A Customer Arrived
-His/Her name is: Karl-Heinz
-He/She bought: Esstisch 2 times and the price was: 900 Euro
-He/She bought: Toaster 2 times and the price was: 120 Euro
-He/She bought: Jeans 2 times and the price was: 50 Euro
+His/Her name is: Maxim
+He/She bought: Esstisch 1 times and the price was: 450 Euro
+He/She bought: Sofa 1 times and the price was: 350 Euro
+He/She bought: Sofa 1 times and the price was: 350 Euro
 
 Time: 9
 A Customer Arrived
-His/Her name is: Margarete
-He/She bought: Halskette 1 times and the price was: 250 Euro
-He/She bought: Sofa 1 times and the price was: 350 Euro
-He/She bought: Esstisch 1 times and the price was: 450 Euro
+His/Her name is: Hilde
+He/She bought: Haferkleie 2 times and the price was: 4 Euro
+He/She bought: Haferkleie 2 times and the price was: 4 Euro
+He/She bought: T-Shirt 2 times and the price was: 30 Euro
 
 Time: 10
-A Customer Arrived
-His/Her name is: Klothilde
-He/She bought: Ring 1 times and the price was: 50 Euro
-He/She bought: Esstisch 1 times and the price was: 450 Euro
-He/She bought: Toaster 1 times and the price was: 60 Euro
+No Customer comes in...
 
 Time: 11
 A Customer Arrived
-His/Her name is: Hans-Werner
-He/She bought: Jeans 1 times and the price was: 25 Euro
-He/She bought: Spülmaschine 1 times and the price was: 150 Euro
-He/She bought: Ring 1 times and the price was: 50 Euro
+His/Her name is: Grazyna
+He/She bought: Dinkelbrot 1 times and the price was: 3 Euro
+He/She bought: Jeans 2 times and the price was: 50 Euro
+He/She bought: Halskette 1 times and the price was: 250 Euro
 
 Time: 12
 No Customer comes in...
 
 Time: 13
 A Customer Arrived
-His/Her name is: Michaele
-He/She bought: Esstisch 1 times and the price was: 450 Euro
+His/Her name is: Hilde
 He/She bought: T-Shirt 1 times and the price was: 15 Euro
-He/She bought: Sofa 2 times and the price was: 700 Euro
+He/She bought: Esstisch 1 times and the price was: 450 Euro
+He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
 
 Time: 14
 A Customer Arrived
-His/Her name is: Johannes
-He/She bought: Esstisch 1 times and the price was: 450 Euro
+His/Her name is: Grazyna
+He/She bought: Toaster 1 times and the price was: 60 Euro
+He/She bought: Halskette 1 times and the price was: 250 Euro
 He/She bought: Toaster 2 times and the price was: 120 Euro
-He/She bought: T-Shirt 1 times and the price was: 15 Euro
 
 Time: 15
-No Customer comes in...
+A Customer Arrived
+His/Her name is: Hanne-Lore
+He/She bought: Jeans 2 times and the price was: 50 Euro
+He/She bought: Dinkelbrot 1 times and the price was: 3 Euro
+He/She bought: Ring 1 times and the price was: 50 Euro
 
 Time: 16
 A Customer Arrived
-His/Her name is: Ramazan
-He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
-He/She bought: Spülmaschine 2 times and the price was: 300 Euro
-He/She bought: Sofa 2 times and the price was: 700 Euro
+His/Her name is: Trudel
+He/She bought: Haferkleie 2 times and the price was: 4 Euro
+He/She bought: Halskette 1 times and the price was: 250 Euro
+He/She bought: T-Shirt 1 times and the price was: 15 Euro
 
 Time: 17
 A Customer Arrived
-His/Her name is: Ramazan
+His/Her name is: Trudel
+He/She bought: Esstisch 2 times and the price was: 900 Euro
 He/She bought: Haferkleie 2 times and the price was: 4 Euro
-He/She bought: Haferkleie 1 times and the price was: 2 Euro
-He/She bought: T-Shirt 2 times and the price was: 30 Euro
+He/She bought: T-Shirt 1 times and the price was: 15 Euro
 
 Time: 18
 A Customer Arrived
-His/Her name is: Michaele
+His/Her name is: Hanne-Lore
+He/She bought: Toaster 2 times and the price was: 120 Euro
 He/She bought: Sofa 2 times and the price was: 700 Euro
-He/She bought: Jeans 2 times and the price was: 50 Euro
-He/She bought: Halskette 2 times and the price was: 500 Euro
+He/She bought: Haferkleie 2 times and the price was: 4 Euro
 
 Time: 19
-No Customer comes in...
+A Customer Arrived
+His/Her name is: Jiri
+He/She bought: Jeans 2 times and the price was: 50 Euro
+He/She bought: T-Shirt 2 times and the price was: 30 Euro
+He/She bought: Spülmaschine 2 times and the price was: 300 Euro
 
 Time: 20
 A Customer Arrived
-His/Her name is: Karl-Heinz
-He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
-He/She bought: T-Shirt 2 times and the price was: 30 Euro
-He/She bought: Sofa 2 times and the price was: 700 Euro
+His/Her name is: Frank-Peter
+He/She bought: Halskette 2 times and the price was: 500 Euro
+He/She bought: Sofa 1 times and the price was: 350 Euro
+He/She bought: Halskette 2 times and the price was: 500 Euro
 
 20:00 Uhr - Schließung des Kaufhauses
 
-The Daily profit was: 10370 Euro
+The Daily profit was: 9218 Euro
 
-Item: Dinkelbrot
- Sold items: 21
- Start Stock: 1957
- End Stock: 1936
-Item: Esstisch
- Sold items: 15
- Start Stock: 4195
- End Stock: 4180
-Item: Spülmaschine
- Sold items: 9
- Start Stock: 4583
- End Stock: 4574
-Item: Halskette
- Sold items: 18
- Start Stock: 2021
- End Stock: 2003
+Item: Ring
+ Sold items: 5
+ Start Stock: 3207
+ End Stock: 3202
 Item: T-Shirt
- Sold items: 15
- Start Stock: 2936
- End Stock: 2921
+ Sold items: 22
+ Start Stock: 895
+ End Stock: 873
+Item: Spülmaschine
+ Sold items: 7
+ Start Stock: 1145
+ End Stock: 1138
+Item: Jeans
+ Sold items: 13
+ Start Stock: 1943
+ End Stock: 1930
 Item: Haferkleie
- Sold items: 8
- Start Stock: 1384
- End Stock: 1376
+ Sold items: 16
+ Start Stock: 4915
+ End Stock: 4899
+Item: Sofa
+ Sold items: 11
+ Start Stock: 4883
+ End Stock: 4872
+Item: Dinkelbrot
+ Sold items: 11
+ Start Stock: 3112
+ End Stock: 3101
 Item: Toaster
  Sold items: 11
- Start Stock: 2754
- End Stock: 2743
-Item: Ring
- Sold items: 8
- Start Stock: 4361
- End Stock: 4353
-Item: Jeans
- Sold items: 7
- Start Stock: 1099
- End Stock: 1092
-Item: Sofa
- Sold items: 9
- Start Stock: 3913
- End Stock: 3904
+ Start Stock: 3926
+ End Stock: 3915
+Item: Halskette
+ Sold items: 12
+ Start Stock: 2622
+ End Stock: 2610
+Item: Esstisch
+ Sold items: 12
+ Start Stock: 1874
+ End Stock: 1862
 
 Check if reorder is necessary...
+The existence of: T-Shirt is after the current day of sale on: 873 decreased and must be reordered
+T-Shirt got reordered: 4000 times
 finished reordering!

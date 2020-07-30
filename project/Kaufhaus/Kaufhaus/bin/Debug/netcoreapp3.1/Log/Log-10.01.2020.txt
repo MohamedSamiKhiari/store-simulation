@@ -4,112 +4,126 @@ KaDeWe Log
 Today is the: 10.01.2020
 
 Time: 8
-A Customer Arrived
-His/Her name is: Sabri
-He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
-He/She bought: Esstisch 2 times and the price was: 900 Euro
-He/She bought: Spülmaschine 1 times and the price was: 150 Euro
+No Customer comes in...
 
 Time: 9
 A Customer Arrived
-His/Her name is: Micha
-He/She bought: Halskette 2 times and the price was: 500 Euro
-He/She bought: T-Shirt 1 times and the price was: 15 Euro
-He/She bought: Haferkleie 2 times and the price was: 4 Euro
+His/Her name is: Sara
+He/She bought: Ring 1 times and the price was: 50 Euro
+He/She bought: T-Shirt 2 times and the price was: 30 Euro
+He/She bought: Spülmaschine 1 times and the price was: 150 Euro
 
 Time: 10
-No Customer comes in...
+A Customer Arrived
+The Customer, Sara came back
+He/She bought: Jeans 1 times and the price was: 25 Euro
+He/She bought: T-Shirt 2 times and the price was: 30 Euro
+He/She bought: Haferkleie 1 times and the price was: 2 Euro
 
 Time: 11
 No Customer comes in...
 
 Time: 12
-A Customer Arrived
-His/Her name is: Leopold
-He/She bought: Halskette 1 times and the price was: 250 Euro
-He/She bought: Toaster 1 times and the price was: 60 Euro
-He/She bought: Spülmaschine 2 times and the price was: 300 Euro
+No Customer comes in...
 
 Time: 13
-No Customer comes in...
+A Customer Arrived
+His/Her name is: Diether
+He/She bought: Sofa 1 times and the price was: 350 Euro
+He/She bought: Dinkelbrot 1 times and the price was: 3 Euro
+He/She bought: Sofa 1 times and the price was: 350 Euro
 
 Time: 14
-No Customer comes in...
+A Customer Arrived
+His/Her name is: Hansjürgen
+He/She bought: Sofa 2 times and the price was: 700 Euro
+He/She bought: Toaster 2 times and the price was: 120 Euro
+He/She bought: T-Shirt 2 times and the price was: 30 Euro
 
 Time: 15
 A Customer Arrived
-His/Her name is: Carina
+The Customer, Ernst-August came back
+He/She bought: Sofa 1 times and the price was: 350 Euro
+He/She bought: Spülmaschine 1 times and the price was: 150 Euro
 He/She bought: Ring 1 times and the price was: 50 Euro
-He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
-He/She bought: Halskette 2 times and the price was: 500 Euro
 
 Time: 16
-A Customer Arrived
-The Customer, Sabri came back
-He/She bought: Jeans 1 times and the price was: 25 Euro
-He/She bought: Halskette 2 times and the price was: 500 Euro
-He/She bought: Ring 1 times and the price was: 50 Euro
+No Customer comes in...
 
 Time: 17
-No Customer comes in...
+A Customer Arrived
+His/Her name is: Carin
+He/She bought: Halskette 1 times and the price was: 250 Euro
+He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
+He/She bought: Ring 2 times and the price was: 100 Euro
 
 Time: 18
 A Customer Arrived
-His/Her name is: Winfried
+His/Her name is: Ilja
 He/She bought: Haferkleie 1 times and the price was: 2 Euro
-He/She bought: Spülmaschine 1 times and the price was: 150 Euro
+He/She bought: Dinkelbrot 1 times and the price was: 3 Euro
 He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
 
 Time: 19
-No Customer comes in...
+A Customer Arrived
+His/Her name is: Sara
+He/She bought: Esstisch 2 times and the price was: 900 Euro
+He/She bought: T-Shirt 1 times and the price was: 15 Euro
+He/She bought: Esstisch 1 times and the price was: 450 Euro
 
 Time: 20
 A Customer Arrived
-His/Her name is: Leopold
-He/She bought: Dinkelbrot 2 times and the price was: 6 Euro
-He/She bought: Toaster 2 times and the price was: 120 Euro
-He/She bought: Esstisch 2 times and the price was: 900 Euro
+His/Her name is: Remo
+He/She bought: Haferkleie 1 times and the price was: 2 Euro
+He/She bought: Haferkleie 1 times and the price was: 2 Euro
+He/She bought: Halskette 1 times and the price was: 250 Euro
 
 20:00 Uhr - Schließung des Kaufhauses
 
-The Daily profit was: 2339 Euro
+The Daily profit was: 2906 Euro
 
-Item: Dinkelbrot
- Sold items: 8
- Start Stock: 1957
- End Stock: 1949
-Item: Esstisch
- Sold items: 4
- Start Stock: 4195
- End Stock: 4191
-Item: Spülmaschine
- Sold items: 4
- Start Stock: 4583
- End Stock: 4579
-Item: Halskette
- Sold items: 7
- Start Stock: 2021
- End Stock: 2014
-Item: T-Shirt
- Sold items: 1
- Start Stock: 2936
- End Stock: 2935
-Item: Haferkleie
- Sold items: 3
- Start Stock: 1384
- End Stock: 1381
-Item: Toaster
- Sold items: 3
- Start Stock: 2754
- End Stock: 2751
 Item: Ring
+ Sold items: 4
+ Start Stock: 3207
+ End Stock: 3203
+Item: T-Shirt
+ Sold items: 7
+ Start Stock: 895
+ End Stock: 888
+Item: Spülmaschine
  Sold items: 2
- Start Stock: 4361
- End Stock: 4359
+ Start Stock: 1145
+ End Stock: 1143
 Item: Jeans
  Sold items: 1
- Start Stock: 1099
- End Stock: 1098
+ Start Stock: 1943
+ End Stock: 1942
+Item: Haferkleie
+ Sold items: 4
+ Start Stock: 4915
+ End Stock: 4911
+Item: Sofa
+ Sold items: 5
+ Start Stock: 4883
+ End Stock: 4878
+Item: Dinkelbrot
+ Sold items: 6
+ Start Stock: 3112
+ End Stock: 3106
+Item: Toaster
+ Sold items: 2
+ Start Stock: 3926
+ End Stock: 3924
+Item: Halskette
+ Sold items: 2
+ Start Stock: 2622
+ End Stock: 2620
+Item: Esstisch
+ Sold items: 3
+ Start Stock: 1874
+ End Stock: 1871
 
 Check if reorder is necessary...
+The existence of: T-Shirt is after the current day of sale on: 888 decreased and must be reordered
+T-Shirt got reordered: 4000 times
 finished reordering!
