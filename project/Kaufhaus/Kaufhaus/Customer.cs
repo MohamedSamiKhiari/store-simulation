@@ -1,9 +1,4 @@
-﻿/*******************************
- * Name: Frederik Grünewald *
- * Mat. Nr.: 70453004 *
- * ****************************/
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Net;
 using System.Text;
@@ -17,6 +12,7 @@ namespace Kaufhaus
 
         //Objektvariablen
         private string _firstName;
+
         private string _lastName;
         private string _street;
         private string _city;

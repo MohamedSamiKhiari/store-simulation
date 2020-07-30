@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj",
+      "projectUniqueName": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj",
       "projectName": "Kaufhaus",
-      "projectPath": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj",
+      "projectPath": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj",
       "packagesPath": "C:\\Users\\Freddy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\obj\\",
+      "outputPath": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

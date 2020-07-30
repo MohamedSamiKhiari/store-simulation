@@ -1,9 +1,4 @@
-﻿/*******************************
- * Name: Frederik Grünewald *
- * Mat. Nr.: 70453004 *
- * ****************************/
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 
 namespace Kaufhaus
@@ -14,6 +9,7 @@ namespace Kaufhaus
 
         //Objektvariablen
         private string _mallName;
+
         private string _mallAdress;
         private List<Department> _mallDepartmentList = new List<Department>();
 

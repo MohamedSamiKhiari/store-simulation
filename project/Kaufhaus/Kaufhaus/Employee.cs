@@ -1,9 +1,4 @@
-﻿/*******************************
- * Name: Frederik Grünewald *
- * Mat. Nr.: 70453004 *
- * ****************************/
-
-namespace Kaufhaus
+﻿namespace Kaufhaus
 {
     public class Employee
     {
@@ -11,6 +6,7 @@ namespace Kaufhaus
 
         //Objektvariablen
         public string _employeeName { get; set; }
+
         public int _employeeAge { get; set; }
         public int _employeeSalary { get; set; }
         public string _employeeDepartment { get; set; }

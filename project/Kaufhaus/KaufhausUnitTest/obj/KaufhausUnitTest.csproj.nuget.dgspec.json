@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj": {}
+    "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj": {
+    "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj",
         "projectName": "KaufhausUnitTest",
-        "projectPath": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj",
+        "projectPath": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj",
         "packagesPath": "C:\\Users\\Freddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\KaufhausUnitTest\\obj\\",
+        "outputPath": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\KaufhausUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -32,8 +32,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj": {
-                "projectPath": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj"
+              "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj": {
+                "projectPath": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj"
               }
             }
           }
@@ -83,14 +83,14 @@
         }
       }
     },
-    "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj": {
+    "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj",
+        "projectUniqueName": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj",
         "projectName": "Kaufhaus",
-        "projectPath": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj",
+        "projectPath": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\Kaufhaus.csproj",
         "packagesPath": "C:\\Users\\Freddy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\Kaufhaus\\obj\\",
+        "outputPath": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\Kaufhaus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,9 +1,4 @@
-﻿/*******************************
- * Name: Frederik Grünewald *
- * Mat. Nr.: 70453004 *
- * ****************************/
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -128,7 +123,6 @@ namespace Kaufhaus
             return _simulationDate;
         }
 
-
         //Methoden die mit Wahrscheinlichkeit der Kunden zutun haben
         private bool CustomerArrivalProbability()
         {
@@ -191,7 +185,6 @@ namespace Kaufhaus
                 throw;
             }
         }
-
 
         //Methoden die mit der Produktauswahl der Kunden zutun haben
         public List<Product> CustomerProductDecision(List<Product> productsToChoose)

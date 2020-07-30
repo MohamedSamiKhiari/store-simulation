@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASGIJ4KFWIH2UXF+gBfdvSM1Iya7YbgBpPgmqaDueg9WbeKugL7RYBAavSy7HTa1Be/EaPnGKGa/52hEVBxIuw==",
+  "dgSpecHash": "GMrwJDwlsB8frDOyWMZxtInXsbuqt3437UoETHW9Q2wbJbIp7ZmhXjQnKJq79P17EJ4f467eHpOmdKfVLHv0gw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Freddy\\Code\\GitHub\\ooprog_project\\SS20_OOProg_Frederik_Grünewald\\4.Teilstudienleistung\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj",
+  "projectFilePath": "C:\\Users\\Freddy\\Code\\GitHub\\store-simulation\\project\\Kaufhaus\\KaufhausUnitTest\\KaufhausUnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Freddy\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\Freddy\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

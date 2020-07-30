@@ -1,9 +1,4 @@
-﻿/*******************************
- * Name: Frederik Grünewald *
- * Mat. Nr.: 70453004 *
- * ****************************/
-
-using System;
+﻿using System;
 using System.IO;
 using System.Reflection;
 
@@ -16,6 +11,7 @@ namespace Kaufhaus
         //Obejktvariablen
         //Pfad der Applikation finden
         private static string _logDataLocation;
+
         private static string _logDirectoryLocation = Path.GetDirectoryName(Assembly.GetEntryAssembly().Location) + "\\Log";
 
         #endregion fields
